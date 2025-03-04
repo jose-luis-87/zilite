@@ -1,0 +1,8 @@
+{
+  "presets": [
+    "@nx/js/babel"
+  ],
+  "plugins": [
+    ["@babel/plugin-proposal-class-properties", { "loose": false }]
+  ]
+}

@@ -1,0 +1,16 @@
+vite.config.*.timestamp*
+vitest.config.*.timestamp*
+.nx/installation
+.nx/cache
+.nx/workspace-data
+node_modules
+
+test-output
+
+
+storybook-static
+**/.storybook-static
+**/dist
+**/coverage
+**/node_modules
+**/tmp
