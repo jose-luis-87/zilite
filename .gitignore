@@ -9,3 +9,8 @@ test-output
 
 
 storybook-static
+**/.storybook-static
+**/dist
+**/coverage
+**/node_modules
+**/tmp
